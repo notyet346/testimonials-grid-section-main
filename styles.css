@@ -112,6 +112,7 @@ img {
 @media (min-width: 40em) {
 	.testimonials {
 		grid-template-columns: repeat(4, 1fr);
+		padding: 10rem;
 	}
 	.testimonial_1 img:last-child {
 		right: 2rem;
